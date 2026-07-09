@@ -11,7 +11,7 @@ export default function Home() {
       }}
     >
       <h1>Auto Deploy Working ✅</h1>
-      <p>Updated automatically from GitHub</p>
+      <p>Updated automatically from GitHub....</p>
     </main>
   );
 }
