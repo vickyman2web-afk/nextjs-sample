@@ -10,8 +10,8 @@ export default function Home() {
         fontFamily: "Arial",
       }}
     >
-      <h1>Hello Hostinger 🚀</h1>
-      <p>My First Next.js Project</p>
+      <h1>Auto Deploy Working ✅</h1>
+      <p>Updated automatically from GitHub</p>
     </main>
   );
 }
