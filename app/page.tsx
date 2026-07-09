@@ -14,6 +14,7 @@ export default function Home() {
       <p>Updated automatically from GitHub....</p>
       <p>Machine completed</p>
       <h1>Working test</h1>
+      <h2>Process Done</h2>
     </main>
   );
 }
